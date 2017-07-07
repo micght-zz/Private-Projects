@@ -1,0 +1,13 @@
+D:\Work\Private-Projects\InterviewTest\InterviewTest\obj\Debug\MainWindow.g.cs
+D:\Work\Private-Projects\InterviewTest\InterviewTest\obj\Debug\App.g.cs
+D:\Work\Private-Projects\InterviewTest\InterviewTest\obj\Debug\InterviewTest_MarkupCompile.cache
+D:\Work\Private-Projects\InterviewTest\InterviewTest\obj\Debug\InterviewTest_MarkupCompile.lref
+D:\Work\Private-Projects\InterviewTest\InterviewTest\bin\Debug\InterviewTest.exe.config
+D:\Work\Private-Projects\InterviewTest\InterviewTest\bin\Debug\InterviewTest.exe
+D:\Work\Private-Projects\InterviewTest\InterviewTest\bin\Debug\InterviewTest.pdb
+D:\Work\Private-Projects\InterviewTest\InterviewTest\obj\Debug\MainWindow.baml
+D:\Work\Private-Projects\InterviewTest\InterviewTest\obj\Debug\InterviewTest.g.resources
+D:\Work\Private-Projects\InterviewTest\InterviewTest\obj\Debug\InterviewTest.Properties.Resources.resources
+D:\Work\Private-Projects\InterviewTest\InterviewTest\obj\Debug\InterviewTest.csproj.GenerateResource.Cache
+D:\Work\Private-Projects\InterviewTest\InterviewTest\obj\Debug\InterviewTest.exe
+D:\Work\Private-Projects\InterviewTest\InterviewTest\obj\Debug\InterviewTest.pdb
